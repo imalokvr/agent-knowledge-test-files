@@ -1,0 +1,126 @@
+Contoso Sports – Product Features and Comparisons Guide
+
+Overview:
+This document explains common product features in simple terms and provides guidance for comparing products. Customers often ask "What does moisture-wicking mean?" or "Which shoe is better for me?" — this guide helps the assistant answer confidently and conversationally.
+
+---
+
+PRODUCT FEATURES EXPLAINED:
+
+Cushioning:
+What it means: Extra padding inside the shoe or product that absorbs shock.
+Why it matters: Reduces impact on your joints — knees, ankles, and hips. Especially important for running, walking, and jumping activities.
+Who benefits most: Beginners and anyone doing high-impact activities like running or basketball.
+Example: "The Road Runner 100 has extra heel cushioning to absorb impact on each stride, so your knees stay comfortable on longer runs."
+
+Breathability:
+What it means: The fabric or material allows air to flow through, keeping you cooler.
+Why it matters: Prevents overheating and excessive sweating during intense activity.
+Who benefits most: Everyone, but especially important for running, gym workouts, and summer sports.
+Example: "The DryRun T-Shirt uses a mesh fabric that lets air circulate, so you stay cool even on a hot day."
+
+Moisture-Wicking:
+What it means: The fabric pulls sweat away from your skin to the outer surface where it evaporates.
+Why it matters: Keeps you dry and comfortable. Wet fabric sticks, chafes, and feels heavy.
+Who benefits most: Everyone during any active sport.
+Example: "Moisture-wicking means the shirt pulls sweat away from your body and dries quickly, so you do not feel soggy after 20 minutes."
+
+Grip and Traction:
+What it means: The bottom of the shoe is designed to prevent slipping on specific surfaces.
+Why it matters: Different sports require different grip. Trail runners need deep lugs for mud, football boots need studs for grass, indoor shoes need flat rubber for courts.
+Who benefits most: Anyone playing on outdoor surfaces, wet conditions, or uneven terrain.
+Example: "The Trail Blazer 200 has deep lugs on the sole that dig into muddy trails, so you do not slip."
+
+Lightweight Design:
+What it means: The product is made with minimal materials to reduce weight without losing performance.
+Why it matters: Less weight means less energy spent. In running shoes, every gram matters over long distances.
+Who benefits most: Advanced athletes and competitive players who need every advantage.
+Example: "The Road Runner 500 Pro weighs just 195 grams — almost half the weight of a beginner shoe — which means less effort per stride."
+
+Compression Fit:
+What it means: The fabric fits snugly against the body, applying gentle pressure.
+Why it matters: Can improve blood flow, reduce muscle vibration, and speed recovery. Also keeps clothing in place during movement.
+Who benefits most: Runners, cyclists, and gym users doing high-intensity workouts.
+Example: "The FlexRun Tights use compression to support your muscles and reduce fatigue on long runs."
+
+UV Protection (UPF Rating):
+What it means: The fabric blocks harmful ultraviolet rays from the sun. UPF 30 blocks about 97% of UV, UPF 50 blocks about 98%.
+Why it matters: Protects skin from sunburn and long-term sun damage during outdoor activities.
+Who benefits most: Hikers, outdoor runners, swimmers, and anyone spending extended time in the sun.
+Example: "The TrailDry Hiking T-Shirt has UPF 30 protection, so your skin stays protected even on exposed trails."
+
+Water-Resistant vs Waterproof:
+Water-resistant: Repels light rain and splashes but will soak through in heavy rain.
+Waterproof: Fully sealed — no water gets through, even in heavy rain or puddles.
+When to choose water-resistant: Light showers, short exposure to rain.
+When to choose waterproof: Heavy rain, stream crossings, extended wet weather.
+Example: "The ThermoShield Running Jacket is water-repellent — perfect for a drizzle. But for a rainy mountain hike, you want the StormShell Waterproof Jacket which is fully sealed."
+
+Anti-Odor Treatment:
+What it means: The fabric is treated to prevent bacteria growth that causes odor.
+Why it matters: Keeps gear smelling fresh even after intense workouts or multi-day trips.
+Who benefits most: Regular gym-goers, hikers on multi-day trips, and frequent exercisers.
+Example: "The DryRun T-Shirt has anti-odor treatment, so it does not develop that gym smell even after a tough session."
+
+Ergonomic Design:
+What it means: The product shape follows the natural contours of the body for better fit and function.
+Why it matters: Reduces discomfort, improves control, and allows natural movement.
+Who benefits most: Everyone, but particularly important for equipment like cricket bats, cycling helmets, and training shoes.
+Example: "The KickBoard has an ergonomic shape with multiple grip positions, so you can hold it in the most natural way for your stroke."
+
+Chlorine-Resistant (Swimming):
+What it means: The swimwear fabric is designed to resist damage from pool chemicals.
+Why it matters: Regular swimwear fades, stretches, and degrades quickly in chlorinated pools. Chlorine-resistant fabric lasts much longer.
+Who benefits most: Regular pool swimmers who train multiple times a week.
+Example: "The AquaFit Swimsuit is chlorine-resistant, so it keeps its shape and color even after hundreds of pool sessions."
+
+MIPS Protection (Cycling Helmets):
+What it means: Multi-directional Impact Protection System — a low-friction layer inside the helmet that allows slight rotation during an angled impact.
+Why it matters: Reduces rotational forces on the brain during crashes, adding an extra layer of safety beyond standard helmets.
+Who benefits most: All cyclists, but especially road cyclists and mountain bikers at higher speeds.
+Example: "The AeroShield helmet has MIPS, which means if you hit your head at an angle, the inner layer slides slightly to reduce the twisting force on your brain."
+
+---
+
+HOW TO COMPARE PRODUCTS:
+
+General Comparison Approach:
+When a customer asks to compare two products, focus on these dimensions:
+1. Who is it designed for? (skill level, frequency of use)
+2. What is the main strength? (comfort vs performance vs durability)
+3. What activity is it best suited for?
+4. What is the key difference between the two?
+
+Keep comparisons simple and focused. Avoid overwhelming with specifications.
+
+Sample Comparisons:
+
+Running Shoes — Beginner vs Advanced:
+"The Road Runner 100 is all about comfort. It has extra cushioning and a forgiving fit, so it is perfect if you are just getting into running. The Road Runner 500 Pro, on the other hand, is built for speed — it is ultra-light with a carbon plate that gives you explosive push-off. If you are training for a race and want to shave seconds off your time, the 500 Pro is the way to go. But if you are starting out, the 100 will treat your feet much better."
+
+Football Boots — FG vs Turf:
+"The KickStart FG has moulded studs designed for natural grass pitches. The TurfMaster TF has a rubber stud pattern designed for artificial turf and hard ground. If you play on real grass, go for the FG. If your pitch is artificial turf or hard, the TF will give you better grip and comfort on that surface."
+
+Hiking Shoes vs Boots:
+"The TrailWalk 100 is a low-cut hiking shoe — it feels like a trainer and is great for easy trails and day walks. The TrailWalk 300 Mid is a mid-cut boot with ankle support and waterproofing — it handles rough terrain, mud, and rain. If you stick to well-maintained paths, the shoe is enough. If you go off-trail or hike in wet conditions, the boot gives you more protection."
+
+Cricket Bats — Kashmir Willow vs English Willow:
+"Kashmir willow is tougher and more affordable — it handles mishits well and lasts a long time. English willow is lighter, has a bigger sweet spot, and gives a better feel when you time the ball well. If you are learning and playing casually, Kashmir is the smart choice. If you play regularly at club level and your technique is developing, English willow will reward you with better performance."
+
+Training Shoes — General vs Lifting:
+"The FlexTrain 100 is a general training shoe — it handles treadmill, weights, and classes. The LiftMax 500 is a dedicated lifting shoe with a raised heel and rigid sole. If you do a mix of gym activities, the FlexTrain is more versatile. If you are serious about squats and Olympic lifts, the LiftMax will immediately improve your form and depth."
+
+Swimwear — Training vs Leisure:
+"Training swimwear like the AquaFit Jammers is chlorine-resistant and fits snugly for streamlined swimming. Leisure shorts like the SplashFun Board Shorts are looser and more comfortable for casual pool time and beach. If you swim laps regularly, go for training swimwear. If you just want something for holidays and occasional pool visits, the leisure shorts are more comfortable."
+
+---
+
+WHEN CUSTOMERS ASK "WHICH IS BETTER?":
+
+There is no single "better" — it depends on the customer's needs. Always guide them with questions:
+- "What sport or activity is this for?"
+- "How often do you plan to use it?"
+- "Would you say you are just starting out, or have you been doing this for a while?"
+- "Is there a specific feature that is important to you — like comfort, weight, or durability?"
+
+This keeps the conversation going and helps you recommend the right product with confidence.

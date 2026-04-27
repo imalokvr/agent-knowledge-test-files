@@ -1,0 +1,137 @@
+Contoso Sports – Returns, Exchanges, and Warranty Policy
+
+Note: All policies are simulated for demo and testing purposes.
+
+---
+
+RETURN POLICY:
+
+Standard Return Window:
+- You can return most products within 30 days of purchase
+- The product must be unused, unworn, and in its original packaging
+- Tags must still be attached
+- You will need your receipt or proof of purchase (digital receipt is accepted)
+
+Conditions for Returns:
+- The item must be in the same condition as when you bought it
+- Shoes must be unworn (no signs of outdoor use on the sole)
+- Apparel must be unwashed and unworn (trying on at home is fine)
+- Equipment must be unused and in original packaging
+- Swimwear must have the hygiene liner intact (if applicable)
+
+Items That Cannot Be Returned:
+- Swimwear with the hygiene liner removed
+- Customized or personalized items
+- Items marked as final sale or clearance
+- Used cricket bats (due to knocking-in and usage marks)
+- Opened food or nutrition products (energy bars, gels)
+
+How to Return In-Store:
+1. Bring the item to any Contoso Sports store
+2. Bring your receipt or digital proof of purchase
+3. A team member will inspect the item
+4. If approved, you will receive a refund to your original payment method
+5. Refund processing takes 3-5 business days for card payments
+6. Cash purchases are refunded in cash immediately
+
+How to Return Online Purchases (Simulated):
+1. Log in to your account on the Contoso Sports website
+2. Go to your order history and select the item to return
+3. Print the return label
+4. Pack the item securely in its original packaging
+5. Drop it off at the designated courier location
+6. Refund is processed within 5-7 business days after the item is received
+
+---
+
+EXCHANGE POLICY:
+
+Standard Exchange:
+- You can exchange a product for a different size, color, or equivalent product
+- Exchange window: 30 days from purchase
+- The item must be in unused, unworn condition with tags attached
+
+How to Exchange In-Store:
+1. Bring the item and your receipt to any Contoso Sports store
+2. Choose the replacement item (same product in a different size or color)
+3. If the replacement is a higher price, you pay the difference
+4. If the replacement is a lower price, you receive the difference as store credit
+
+Size Exchange for Online Orders (Simulated):
+1. Contact customer service or use the website return portal
+2. Select "exchange" and specify the new size or color
+3. Ship the original item back
+4. The replacement is shipped once the return is received
+5. No extra shipping cost for size exchanges within the same product
+
+When to Recommend an Exchange:
+- Customer bought the wrong size (common with shoes and apparel)
+- Customer wants a different color
+- Customer received a gift and needs a different size
+- The product has a manufacturing defect (see warranty section)
+
+---
+
+WARRANTY POLICY:
+
+Standard Warranty:
+- All Contoso Sports products come with a 6-month warranty against manufacturing defects
+- This covers defects in materials, construction, and workmanship
+- This does NOT cover normal wear and tear, misuse, or accidental damage
+
+What Is Covered:
+- Stitching coming undone within normal use
+- Sole separating from the shoe
+- Zippers failing under normal use
+- Fabric tearing without external cause
+- Equipment breaking under normal use conditions
+
+What Is NOT Covered:
+- Normal wear and tear (sole wearing down from running, fabric fading from washing)
+- Damage from misuse (using road running shoes for hiking, for example)
+- Accidental damage (dropping equipment, stepping on goggles)
+- Damage from improper washing or care
+- Cosmetic issues that do not affect function (minor color variations, small marks)
+
+How to Make a Warranty Claim:
+1. Bring the product to any Contoso Sports store
+2. Bring your receipt or proof of purchase
+3. A team member will inspect the product to determine if the defect is covered
+4. If approved, you will receive a replacement or store credit
+5. The store does not offer cash refunds for warranty claims — only replacement or credit
+
+Extended Warranty (Optional):
+- Available at the time of purchase for selected products (shoes and equipment)
+- Extends the warranty from 6 months to 12 months
+- Small additional cost at checkout
+- Same coverage as standard warranty, but for a longer period
+
+---
+
+TIPS FOR CUSTOMERS:
+
+Keeping Your Receipt:
+- Always keep your receipt. A photo of the receipt on your phone works too.
+- If you signed up for the loyalty program, your purchases are stored in the system.
+
+Care Instructions:
+- Follow the care label on apparel to maintain warranty coverage
+- Store shoes in a cool, dry place
+- Clean equipment after use to prevent premature wear
+- Do not machine wash items unless the label says it is safe
+
+When to Contact Customer Service:
+- If you are unsure whether your item qualifies for a return, exchange, or warranty claim
+- If you have lost your receipt but have a bank statement showing the purchase
+- If you have a complaint about a product or experience
+
+---
+
+ESCALATION:
+
+If the assistant cannot resolve a return, exchange, or warranty question:
+- Apologize briefly
+- Offer to connect the customer with a human agent
+- Provide the customer service phone number: +1 (555) 100-2000
+- Provide the email: help@contososports.example.com
+- Do not promise specific outcomes — let the human agent assess the situation

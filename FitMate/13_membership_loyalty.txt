@@ -1,0 +1,144 @@
+Contoso Sports – Membership and Loyalty Program
+
+Note: All membership details are simulated for demo and testing purposes.
+
+---
+
+PROGRAM NAME: Contoso Sports Club
+
+OVERVIEW:
+Contoso Sports Club is our free loyalty program. When you sign up, you earn points on every purchase, get access to member-only deals, and receive personalized recommendations. There is no cost to join, and you start earning benefits immediately.
+
+---
+
+HOW TO JOIN:
+
+In-Store:
+1. Visit any Contoso Sports store
+2. Ask a team member to sign you up
+3. Provide your name, email address, and phone number
+4. You will receive a digital membership card via email
+5. Your card can be stored in your phone's wallet app
+
+Online (Simulated):
+1. Visit www.contososports.example.com
+2. Click "Join the Club" on the homepage
+3. Fill in your details (name, email, phone number)
+4. Create a password for your account
+5. Your membership is activated immediately
+
+Requirements:
+- Must be 16 years or older
+- Valid email address required
+- One membership per person
+- Free to join — no annual fee
+
+---
+
+MEMBERSHIP BENEFITS:
+
+1. Earn Points on Every Purchase:
+   - Earn 1 point for every dollar spent
+   - Points are added automatically when you scan your membership card or log in online
+   - Points appear in your account within 24 hours of purchase
+
+2. Redeem Points for Rewards:
+   - 100 points = $5 reward voucher
+   - 200 points = $12 reward voucher (bonus value)
+   - 500 points = $35 reward voucher (best value)
+   - Vouchers can be used on any purchase (no minimum spend)
+   - Vouchers expire 6 months after issue
+
+3. Member-Only Discounts:
+   - Exclusive member pricing on selected products each month
+   - Early access to seasonal sales (24 hours before general public)
+   - Birthday discount: 15% off one purchase during your birthday month
+
+4. Member-Only Events:
+   - Invitations to product launch events
+   - Priority registration for in-store workshops
+   - Early access to limited-edition products
+
+5. Personalized Recommendations:
+   - Based on your purchase history and preferences
+   - Seasonal gear suggestions for your favorite sports
+   - New product alerts in your preferred categories
+
+6. Digital Receipt Storage:
+   - All purchases are stored in your membership account
+   - No need to keep paper receipts
+   - Makes returns and exchanges easier
+
+---
+
+MEMBERSHIP TIERS:
+
+Contoso Sports Club has three tiers based on annual spending:
+
+1. Bronze (Default):
+   - Automatic when you join
+   - Earn 1 point per dollar
+   - Standard member benefits
+   - No minimum spend required
+
+2. Silver (Spend $200+ in a year):
+   - Earn 1.5 points per dollar
+   - All Bronze benefits plus:
+   - Free gift wrapping year-round
+   - Exclusive Silver member sale events (2 per year)
+   - Priority access to workshops
+
+3. Gold (Spend $500+ in a year):
+   - Earn 2 points per dollar
+   - All Silver benefits plus:
+   - Free alteration service for apparel
+   - 20% birthday discount (instead of 15%)
+   - Invitation to VIP store events
+   - Dedicated customer service line
+
+Tier Renewal:
+- Tiers are evaluated annually based on your spending in the previous 12 months
+- If your spending qualifies for a higher tier, you are upgraded automatically
+- If your spending drops below the threshold, you move to the appropriate tier at renewal
+- You never lose your accumulated points when changing tiers
+
+---
+
+FREQUENTLY ASKED MEMBERSHIP QUESTIONS:
+
+Q: Is there a membership fee?
+A: No. Contoso Sports Club is completely free to join and maintain.
+
+Q: Can I earn points on sale items?
+A: Yes, you earn points on all purchases including sale and clearance items.
+
+Q: Do my points expire?
+A: Points are valid for 12 months from the date they are earned. If unused, they expire after 12 months.
+
+Q: Can I use my membership at any store?
+A: Yes, your membership works at all Contoso Sports store locations and online.
+
+Q: I forgot to scan my card during a purchase. Can I still get points?
+A: Yes. Bring your receipt to any store within 14 days and a team member can add the points to your account.
+
+Q: Can I share my membership with family?
+A: Each membership is individual. However, family members can each sign up for their own free membership.
+
+Q: How do I check my points balance?
+A: You can check your balance by logging in to the website, through the app, or by asking a team member in-store.
+
+Q: Can I use reward vouchers with other promotions?
+A: Reward vouchers can be used on most purchases. However, they cannot be combined with other vouchers or coupons. Member-only discounts and birthday discounts are separate from reward vouchers.
+
+Q: What happens if I return an item I earned points on?
+A: The points earned from that purchase will be deducted from your account when the return is processed.
+
+---
+
+HOW THE ASSISTANT SHOULD HANDLE MEMBERSHIP QUESTIONS:
+
+- Explain benefits enthusiastically — the program is genuinely helpful
+- Encourage sign-up for non-members: "It is free and you start earning points right away!"
+- For existing members asking about points or tier: suggest checking online or in-store
+- The assistant cannot look up specific account balances, points, or tier status
+- If a customer has a membership issue, offer to connect them with customer service

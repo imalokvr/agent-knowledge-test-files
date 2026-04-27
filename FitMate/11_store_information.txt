@@ -1,0 +1,136 @@
+Contoso Sports – Store Information
+
+Note: All store information is simulated for demo and testing purposes.
+
+---
+
+STORE LOCATIONS:
+
+Contoso Sports has multiple store locations. Below are example stores for demo purposes:
+
+1. Contoso Sports — City Center
+   - Address: 42 Market Street, City Center, Contoso City, CC1 2AB
+   - Phone: +1 (555) 100-2001
+   - Type: Flagship store (largest)
+   - Parking: Underground parking available (200 spaces)
+   - Nearest Public Transport: City Center Metro Station (5-minute walk)
+
+2. Contoso Sports — Riverside Mall
+   - Address: Riverside Shopping Mall, Unit 15-18, River Road, Contoso City, CC4 7DE
+   - Phone: +1 (555) 100-2002
+   - Type: Mall store (medium)
+   - Parking: Mall parking (shared, free for 3 hours)
+   - Nearest Public Transport: Riverside Bus Stop (2-minute walk)
+
+3. Contoso Sports — Northside Retail Park
+   - Address: Northside Retail Park, Unit 8, North Avenue, Contoso City, CC7 3FG
+   - Phone: +1 (555) 100-2003
+   - Type: Retail park store (large, with outdoor test area)
+   - Parking: Free dedicated parking (150 spaces)
+   - Nearest Public Transport: Northside Bus Terminal (10-minute walk)
+
+---
+
+STORE OPENING HOURS:
+
+All Contoso Sports Stores:
+
+Monday to Friday:
+- Open: 9:00 AM
+- Close: 9:00 PM
+
+Saturday:
+- Open: 9:00 AM
+- Close: 8:00 PM
+
+Sunday:
+- Open: 10:00 AM
+- Close: 6:00 PM
+
+Public Holidays:
+- Hours may vary on public holidays
+- Stores are typically closed on Christmas Day and New Year's Day
+- Reduced hours (10:00 AM to 4:00 PM) on other public holidays
+- Customers should check the store's social media or call ahead for holiday hours
+
+Special Events:
+- Extended hours may apply during seasonal sales (Black Friday, end-of-season sales)
+- Special early-bird openings are announced on social media
+
+---
+
+IN-STORE SERVICES:
+
+1. Product Fitting and Sizing:
+   - Available for: Shoes, cycling helmets, cricket pads, hiking boots
+   - How it works: Our in-store advisors help you find the right size and fit. For shoes, we measure your foot length and width. For helmets, we measure head circumference.
+   - Cost: Free
+   - Appointment needed: No, walk in any time
+   - Tip: Wear the socks or base layer you plan to use with the product for the most accurate fitting.
+
+2. Shoe Fitting Service:
+   - What we do: Measure foot length, width, and arch type. Recommend shoes based on your sport, foot shape, and any comfort preferences.
+   - Available for: Running shoes, football boots, hiking boots, gym shoes
+   - Cost: Free
+   - Time: Usually takes about 10-15 minutes
+   - Tip: Come in the afternoon — feet naturally swell during the day, so afternoon fitting gives you the most comfortable match.
+
+3. Cricket Bat Knocking-In Service:
+   - What we do: Prepare new cricket bats for use by compressing the willow fibers with a mallet. This hardens the surface and prevents cracking.
+   - Available for: English willow bats (Kashmir willow bats require less knocking-in)
+   - Cost: Small service fee applies
+   - Time: Usually 3-5 business days
+   - Note: New bats should always be knocked in before use. Using an un-knocked bat risks cracking the willow.
+
+4. Racket Restringing Service:
+   - What we do: Replace worn or broken strings on badminton, tennis, and squash rackets.
+   - Cost: Service fee plus string cost
+   - Time: Usually same day or next day
+   - Note: Contoso Sports primarily sells racket accessories. Full racket restringing depends on store location.
+
+5. Bike Accessory Fitting:
+   - What we do: Help fit helmets, lights, bottle cages, and saddle bags to your bike
+   - Cost: Free when purchased in-store
+   - Time: Usually 10-15 minutes
+   - Note: We do not sell or service bicycles, but we can help you set up accessories you buy from us.
+
+6. Workshops and Events (Seasonal):
+   - What: Occasionally we host beginner workshops — running technique, cricket batting basics, hiking preparation talks
+   - When: Seasonal, usually weekends. Check in-store notice boards or social media.
+   - Cost: Usually free or small registration fee
+   - Registration: In-store or via the store's social media page
+   - Note: Workshop availability varies by store and season.
+
+7. Gift Wrapping:
+   - Available for any purchase
+   - Cost: Free
+   - When: All year, but especially popular during holiday season
+   - Just ask any team member at checkout.
+
+---
+
+CONTACT INFORMATION:
+
+General Customer Service:
+- Phone: +1 (555) 100-2000 (main helpline)
+- Email: help@contososports.example.com
+- Hours: Monday to Saturday, 9:00 AM to 6:00 PM
+
+Social Media (simulated):
+- Instagram: @ContosoSports
+- Twitter/X: @ContosoSports
+- Facebook: facebook.com/ContosoSports
+
+Website: www.contososports.example.com (simulated)
+
+---
+
+FINDING THE RIGHT STORE:
+
+If a customer asks which store to visit, consider:
+- City Center is the biggest with the widest selection
+- Riverside Mall is convenient if they are already shopping at the mall
+- Northside Retail Park has free parking and an outdoor test area for trying equipment
+
+For specific product availability, suggest calling the store directly or checking online.
+Note: The assistant cannot confirm real-time product availability or stock levels.
